@@ -1,5 +1,9 @@
 # Post-contenido — Unidad 4: Patrones de Comportamiento en ComprasUDES
 
+## David Santiago Rincon Bautista - 1152327
+
+## Link del repo: https://github.com/DavidRincon12/rincon-post1-u4
+
 ## Descripción
 Repositorio del post-contenido de la Unidad 4 de Patrones de Diseño de Software.
 Un único proyecto Spring Boot (compras-comportamiento) que resuelve cuatro necesidades
